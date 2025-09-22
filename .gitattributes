@@ -50,6 +50,7 @@
 *.Rmd linguist-documentation=false
 *.Rmd linguist-language=RMarkdown
 # Flix source file
+# 2025.09.21: Making a push, as today, I found (yesterday, I am making this update a day late) that the GitHub linguist now recognizes Flix as a language (it originally did not when I published this file on 2024, January 21st)
 *.flix linguist-detectable=true
 *.flix linguist-documentation=false
 *.flix linguist-language=Flix
@@ -187,7 +188,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Sunday, January 21st at 09:25 pm PST)
-# Line count (including blank lines and compiler line): 194
+# File version: 6 (2025, Sunday, September 21st at 07:49 pm PST)
+# Line count (including blank lines and compiler line): 195
 
 # End of script
